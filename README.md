@@ -26,3 +26,6 @@ I'm a student at Bangkok University
 <a href="http://www.github.com/masahiro-666"><img src="https://github-readme-stats.vercel.app/api?username=masahiro-666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="masahiro-666's GitHub stats" /></a>
 
 <a href="https://github.com/masahiro-666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masahiro-666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+![Snake animation](https://raw.githubusercontent.com/masahiro-666/masahiro-666/output/snake-green-dots-pink-snake.svg)
