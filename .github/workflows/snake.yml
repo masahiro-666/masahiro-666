@@ -36,7 +36,6 @@ jobs:
             dist/snake-green-dots-pink-snake.svg?color_snake=#ef87ff&color_dots=#161b22,#01311f,#034525,#0f6d31,#00c647&background=161b22
   
 
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
